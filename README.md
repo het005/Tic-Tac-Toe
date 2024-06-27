@@ -1,2 +1,2 @@
 # Tic-Tac-Toe
-i make the tic-tac-toe game.
+I have made a tic tac toe game in which I used html css and js
